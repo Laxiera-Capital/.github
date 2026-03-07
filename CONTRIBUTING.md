@@ -1,4 +1,4 @@
-# CONTRIBUTIONS.md — Laxiera Technologies LLC
+# CONTRIBUTIONS.md — Laxiera Capital LLC
 
 **Last updated:** 2025‑11‑07  
 **Scope:** Laxiera monorepo (Backend, Android POS, Dashboard Web, Standalone Terminal, Customer App, Infra)  
