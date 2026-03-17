@@ -75,33 +75,6 @@ Laxiera is not a single product — it’s an interconnected **merchant technolo
 
 ---
 
-## 🗺️ Roadmap (2025–2027)
-
-### **Phase 1 — Foundation (2025)**
-✅ LaxiPay MVP with ACH + Stripe  
-✅ POS prototype (React Native + Kotlin)  
-✅ Merchant Dashboard Alpha (Next.js)  
-✅ Google Cloud infrastructure setup  
-✅ Engineering standards + internal developer docs  
-
-### **Phase 2 — Expansion (2026)**
-🚀 Launch **LaxiPay v1.0** (multi-processor support)  
-🚀 Introduce **Standalone Terminal App**  
-🚀 Deploy **Merchant Dashboard v2** with analytics  
-🚀 AI Recommendation Engine (Beta)  
-🚀 Onboard 100+ active merchants  
-🚀 Seed funding round ($350K–$450K)
-
-### **Phase 3 — Intelligence (2027)**
-🤖 Voice-powered POS workflows  
-🤖 Global expansion to Canada, UK, Europe  
-🤖 Laxiera Cloud Developer API  
-🤖 LaxiOS merchant firmware  
-🤖 Loyalty, Rewards, and Wallet 2.0  
-🤖 Advanced BI dashboard with AI summaries  
-
----
-
 ## 🧠 Engineering Philosophy
 
 At Laxiera, technology serves **clarity** and **execution** — not complexity.  
@@ -194,7 +167,7 @@ We’re assembling a world-class engineering team driven by passion and precisio
 - ⚡ Fast execution with lean teams.  
 - 💬 Collaborative and transparent culture.  
 
-Apply or reach out to **[contact@laxiera.com](mailto:chaitanya@laxiera.com)**  
+Apply or reach out to **[contact@laxiera.com](mailto:contact@laxiera.com)**  
 
 ---
 
@@ -227,11 +200,6 @@ Before pushing:
 > “We’re not just building apps — we’re building a legacy for merchants worldwide.”
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanyap22&show_icons=true&theme=react&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanyap22&theme=react&hide_border=true" width="45%"/>
-</p>
 
 <p align="center">
   <i>"Empowering merchants globally — one transaction, one innovation, one partnership at a time."</i><br/>
