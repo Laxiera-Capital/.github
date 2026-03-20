@@ -13,7 +13,7 @@
 
 **Laxiera Capital** is a modern fintech company building the operating system for merchants — combining **Point of Sale**, **Payments**, and **Artificial Intelligence** into one unified ecosystem.
 
-Founded in **September 2025** by **Chaitanya Pawar**, Laxiera’s mission is to make every merchant — from a small family café to a global retail chain — operate with **the precision, intelligence, and financial power of an enterprise platform.**
+Founded in **January 2026** by **Yash Anand, Chaitanya Pawar & Skender Gjevukaj**, Laxiera’s mission is to make every merchant — from a small family café to a global retail chain — operate with **the precision, intelligence, and financial power of an enterprise platform.**
 
 > 💬 *“We don’t sell software. We engineer trust, speed, and opportunity for merchants.”*
 
